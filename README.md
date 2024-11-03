@@ -1,4 +1,4 @@
-# Getting and Cleaning Data (Coursera)
+# Getting and Cleaning Data (Coursera) -peer graded
 In this project we were asked to create clean and tidy data which also have descriptive variable names.
 by reading the readme we can see that they record the data in training and testing by using 6 different activities described in activity_labels.txt and 30 subjects who participated.
 
